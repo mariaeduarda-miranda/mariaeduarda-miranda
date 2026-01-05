@@ -1,4 +1,4 @@
-###👩‍💻 Maria Eduarda
+👩‍💻 Maria Eduarda
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -30,5 +30,4 @@ Em desenvolvimento
 Foco em DevOps, Cloud & Infraestrutura
 
 ### Você também me encontra em: 
-<a href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-https://www.linkedin.com/in/maria-eduarda-miranda-4b2234303></a>
+<a href="https://www.linkedin.com/in/maria-eduarda-miranda-4b2234303"</a>
