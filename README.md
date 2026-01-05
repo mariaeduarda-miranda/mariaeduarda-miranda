@@ -1,33 +1,41 @@
-👩‍💻 Maria Eduarda
+# 👩‍💻 Maria Eduarda
+---
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas   
+- 💻 Desenvolvedora em formação com base sólida em programação  
+- ☁️ Interessada na área de **DevOps** e **Computação em Nuvem (AWS)**  
+- 📚 Sempre em busca de evolução técnica e boas práticas de desenvolvimento  
 
-Sou estudante da área de tecnologia com foco em DevOps, motivada pela busca contínua por eficiência, automação e qualidade no desenvolvimento e na entrega de software. Possuo conhecimentos em C, Java, Python e JavaScript, e atualmente estou aprimorando minhas habilidades em React.js, TypeScript e React Native.
+---
 
-Tenho grande interesse em infraestrutura, computação em nuvem, integração e entrega contínuas, direcionando meus estudos para tecnologias como Docker, Kubernetes e Linux, além da busca constante por conhecimento em AWS (Amazon Web Services), com foco em serviços de nuvem, escalabilidade e boas práticas de arquitetura.
+## 🚀 Conjunto de Tecnologias
 
-Sou uma pessoa curiosa, disciplinada e comprometida com aprendizado contínuo, sempre buscando evoluir tecnicamente e acompanhar as transformações do ecossistema de desenvolvimento e operações ⚙️🚀
+### Linguagens & Desenvolvimento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,react" />
+</p>
 
+### Conceitos e Áreas de Interesse
+- Estruturas de Dados e Lógica de Programação  
+- Desenvolvimento Web  
+- DevOps e Cloud Computing  
+- Integrações e APIs  
 
-🛠️ Tecnologias & Ferramentas
-Linguagens de Programação
+---
 
-<div style="display: inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-</div>                   
-          
-          
-Em desenvolvimento
-<div style="display: inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-</div>                             
+## 🛠️ Ferramentas
 
-Foco em DevOps, Cloud & Infraestrutura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,vscode" />
+</p>
 
-### Você também me encontra em: 
-<a href="https://www.linkedin.com/in/maria-eduarda-miranda-4b2234303"</a>
+---
+
+## 📈 Em aprendizado contínuo
+
+- ☁️ **AWS (Cloud Practitioner / DevOps)**  
+- ⚙️ **CI/CD e Automação**  
+- 🔐 Boas práticas de segurança e versionamento  
+- ⚛️ React.js e TypeScript  
+
+---
