@@ -1,5 +1,7 @@
-# 👩‍💻 Maria Eduarda
-
+ <h1 align="center">Olá, eu sou a Maria Eduarda 👋</h1>
+<p align="center">
+    <img src=https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif? width="350"/>
+</p>
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 - 💻 Desenvolvedora em formação construindo uma base sólida em programação  
 - ☁️ Interessada na área de **DevOps** e **Computação em Nuvem (AWS)**  
