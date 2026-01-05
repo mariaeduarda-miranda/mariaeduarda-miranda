@@ -1,5 +1,6 @@
- <h1 align="center">Olá, eu sou a Maria Eduarda 👋</h1>
- 
+ <h1 align="center">(https://readme-typing-svg.demolab.com?font=&pause=1000&color=6C1F3D&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda+%F0%9F%91%8B)](https://git.io/typing-svg)
+👋</h1>
+
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 - 💻 Desenvolvedora em formação construindo uma base sólida em programação  
 - ☁️ Interessada na área de **DevOps** e **Computação em Nuvem (AWS)**  
